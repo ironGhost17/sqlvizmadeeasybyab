@@ -1,0 +1,5 @@
+openai
+sqlglot
+streamlit
+graphviz
+python-dotenv
